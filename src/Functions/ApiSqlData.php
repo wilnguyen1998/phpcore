@@ -17,7 +17,6 @@ class ApiSqlData
         return str_replace($ParameterOut, $ParameterValue, $SelectCommandView);
     }
 
-
     /**
      * @param $SelectCommandView: Câu truy vấn
      * @return mixed
